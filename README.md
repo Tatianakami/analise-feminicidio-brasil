@@ -2,8 +2,10 @@
 
 Este projeto tem como objetivo analisar e visualizar a evolução da taxa de feminicídio no Brasil por estado, utilizando dados do arquivo `homicidios-mulheres.csv`.
 
-✔️ Ferramentas usadas: Python, Pandas, Seaborn, Matplotlib, Plotly, Streamlit
-✔️ Foco: Análise Descritiva, Visualização Interativa
+✔️ Ferramentas usadas: Python, Pandas, Seaborn, Matplotlib, 
+  Plotly, Streamlit
+✔️ Foco: Análise Descritiva,
+Visualização Interativa
 
 <div align="center">
   <img src="imagens/grafico.png" alt="Capa do Projeto" width="600"/>
@@ -33,7 +35,7 @@ Informações contextualizadas para facilitar a interpretação dos dados.
 2. Instale as bibliotecas necessárias:
 
 ```bash
-pip install -r requirements.txt
+ pip install -r requirements.txt
 
 # **Como rodar seu projeto**
 
