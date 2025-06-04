@@ -7,7 +7,7 @@ import os
 
 st.title("Análise da Taxa de Feminicídio no Brasil por Estado")
 
-# 🔧 Carregar dados tratados com caminho absoluto relativo ao script
+#  Carregar dados tratados com caminho absoluto relativo ao script
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 csv_path = os.path.join(BASE_DIR, '..', 'dados', 'dados_tratados.csv')
 

@@ -1,7 +1,29 @@
+# Ambiente virtual
 venv/
+
+# Arquivos Python compilados
 __pycache__/
-*.pyc
-*.pyo
-*.pyd
+*.py[cod]
+*$py.class
 
+# Arquivos de logs
+*.log
 
+# Dados sensíveis
+.env
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Cache de pacotes
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Outros
+*.sqlite3
+
+<<<<<<< HEAD
+
+=======
+>>>>>>> b91a89232b06e1eedb64c610ad6a48dcd849a628
